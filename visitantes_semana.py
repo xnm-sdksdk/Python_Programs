@@ -1,3 +1,5 @@
+# exercicio nº2 de exame 2022_2023 AED
+
 # lista para dias da semana
 dias_semana = ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado']
 
