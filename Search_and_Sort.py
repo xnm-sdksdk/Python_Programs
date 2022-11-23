@@ -1,4 +1,4 @@
-
+# Linear Search
 
 # arr the array we are going to iterate over
 # target param we want to find
