@@ -13,7 +13,8 @@ while 1:
         password = ""
         for j in range(0, password_length):
             password_character = random.choice(chars)
-            print(password_character)
+            password = password + password_character
+        print("Here is your password: ", password)
 
         
 
